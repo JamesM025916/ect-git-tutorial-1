@@ -3,3 +3,6 @@
 
 #After saving add more text to the file
 #I've been using comments because it is unclear if this needs to be a program or random notes
+
+# This is my third set of text added after the second save
+# At this point you should have a github account and repository setup
