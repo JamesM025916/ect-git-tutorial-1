@@ -6,3 +6,6 @@
 
 # This is my third set of text added after the second save
 # At this point you should have a github account and repository setup
+
+# These next lines should be added from the online repository
+# I noticed that there is a difference in bolding based on whether there is a space or not after the #.
